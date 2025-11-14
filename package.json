@@ -1,5 +1,5 @@
 {
-  "name": "apizoologico_alejandro",
+  "name": "apizoologico_ntdgr51_2024_2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,23 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon src/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jaba1005/apizoologico_Alejandro.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Jaba1005/apizoologico_Alejandro/issues"
-  },
-  "homepage": "https://github.com/Jaba1005/apizoologico_Alejandro#readme",
   "dependencies": {
-    "dotenv": "^17.2.3",
-    "express": "^5.1.0",
-    "mongoose": "^8.19.2"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.10"
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3",
+    "nodemon": "^3.1.7"
   }
 }
